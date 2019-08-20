@@ -1,0 +1,1 @@
+Document.write('The fitst day of the challenge');
