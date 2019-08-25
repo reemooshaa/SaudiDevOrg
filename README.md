@@ -5,3 +5,4 @@ This challenge made by [Saudi developer initiative](https://twitter.com/saudidev
 - **Day 2**: writing comments. 
 - **Day 3**: Declaring variables. 
 - **Day 4 and 5**: Printing in two lines + using variables in the text. 
+- **Day 6**: Creating and naming the identifiers.
