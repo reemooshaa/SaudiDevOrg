@@ -9,4 +9,4 @@ This challenge made by [Saudi developer initiative](https://twitter.com/saudidev
 - **Day 7**: learning about Reserved words.
 - **Day 8**: Using semicolon.
 - **Day 9**: Learning about different types of data in JavaScript. 
-
+- **Day 10**: Learning about date and time functions. 
