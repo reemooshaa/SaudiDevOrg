@@ -7,3 +7,6 @@ This challenge made by [Saudi developer initiative](https://twitter.com/saudidev
 - **Day 4 and 5**: Printing in two lines + using variables in the text. 
 - **Day 6**: Creating and naming the identifiers.
 - **Day 7**: learning about Reserved words.
+- **Day 8**: Using semicolon.
+- **Day 9**: Learning about different types of data in JavaScript. 
+
