@@ -15,3 +15,5 @@ This challenge made by [Saudi developer initiative](https://twitter.com/saudidev
 - **Day 9**: Learning about different types of data in JavaScript. 
 - **Day 10**: Learning about date and time functions. 
 - **Day 11,12**: Using Alert method and console.log(); 
+ ### Week 3
+- **Day 13**: Learned different methods to work with Strings, like(Split, Length, chartAt, replace, ext).
