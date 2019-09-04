@@ -18,4 +18,5 @@ This challenge made by [Saudi developer initiative](https://twitter.com/saudidev
  ### Week 3
 - **Day 13**: Learned different methods to work with Strings, like(Split, Length, chartAt, replace, etc).
 - **Day 14**: Using mathimatical and logic operations. 
-- **Day 15**: Using If Else conditions. 
+- **Day 15**: Using If condition. 
+- **Day 16**: Using If Else conditions. 
