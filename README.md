@@ -21,3 +21,4 @@ This challenge made by [Saudi developer initiative](https://twitter.com/saudidev
 - **Day 15**: Using If condition. 
 - **Day 16**: Using If Else conditions. 
 - **Day 17**: Using Switch statment. 
+- **Day 18,19**: switching between switch and If statement. 
