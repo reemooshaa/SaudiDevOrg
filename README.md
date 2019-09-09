@@ -23,4 +23,5 @@ This challenge made by [Saudi developer initiative](https://twitter.com/saudidev
 - **Day 17**: Using Switch statment. 
 - **Day 18,19**: switching between switch and If statement. 
  ### Week4
- - **Day 4**: Using While loop. 
+ - **Day 20**: Using While loop. 
+ - **Day 21**: Using Do while loop.
