@@ -25,3 +25,4 @@ This challenge made by [Saudi developer initiative](https://twitter.com/saudidev
  ### Week4
  - **Day 20**: Using While loop. 
  - **Day 21**: Using Do while loop.
+ - **Day 22**: Using for loop. 
