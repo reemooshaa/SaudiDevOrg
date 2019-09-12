@@ -26,3 +26,4 @@ This challenge made by [Saudi developer initiative](https://twitter.com/saudidev
  - **Day 20**: Using While loop. 
  - **Day 21**: Using Do while loop.
  - **Day 22**: Using for loop. 
+ - **Day 23**: Using break & continue. 
