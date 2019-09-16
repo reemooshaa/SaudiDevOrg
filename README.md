@@ -30,4 +30,5 @@ This challenge made by [Saudi developer initiative](https://twitter.com/saudidev
  - **Day 24**: Use continue. 
  - **Day 25, 26**: practice all loop options. 
  ### Week 5 
- - **Day 26**: Use Return expression. 
+ - **Day 27**: Use Return expression. 
+ - **Day 28**: Use Throw expressin. 
