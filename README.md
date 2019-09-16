@@ -29,3 +29,5 @@ This challenge made by [Saudi developer initiative](https://twitter.com/saudidev
  - **Day 23**: Using break & continue. 
  - **Day 24**: Use continue. 
  - **Day 25, 26**: practice all loop options. 
+ ### Week 5 
+ - **Day 26**: Use Return expression. 
