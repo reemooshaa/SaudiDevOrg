@@ -32,3 +32,4 @@ This challenge made by [Saudi developer initiative](https://twitter.com/saudidev
  ### Week 5 
  - **Day 27**: Use Return expression. 
  - **Day 28**: Use Throw expressin. 
+ - **Day 29**: Use Try,Catch,Finally to handle exceptions.
