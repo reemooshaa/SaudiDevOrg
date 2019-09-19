@@ -34,3 +34,4 @@ This challenge made by [Saudi developer initiative](https://twitter.com/saudidev
  - **Day 28**: Use Throw expressin. 
  - **Day 29**: Use Try,Catch,Finally to handle exceptions.
  - **Day 30**: Use objects and learn how to retrieve its elements. 
+ - **Day 31**: creating a method inside the object and calling it. 
