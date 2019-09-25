@@ -36,3 +36,5 @@ This challenge made by [Saudi developer initiative](https://twitter.com/saudidev
  - **Day 30**: Use objects and learn how to retrieve its elements. 
  - **Day 31**: creating a method inside the object and calling it. 
  - **Day 32, 33**: practice Try,catch, finally.
+ ### Week 6 
+ - **Day 34**: Using this. 
