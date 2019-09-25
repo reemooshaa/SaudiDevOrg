@@ -38,3 +38,4 @@ This challenge made by [Saudi developer initiative](https://twitter.com/saudidev
  - **Day 32, 33**: practice Try,catch, finally.
  ### Week 6 
  - **Day 34**: Using this. 
+ - **Day 35**: Using Inheritance in functions to inherit features and properties.
