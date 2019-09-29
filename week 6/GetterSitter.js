@@ -1,14 +1,11 @@
-var person = {
-  FirstName:"Ahmed",
-  LastName:"Saud",
-  Age:33,
-  Hight:190,
-  status:"Single",
-  get statGet(){
-    return this.status;
-  },
-  set statSet(value){
-    this.status = value;
-  };
+ firstName: "Ali",
+ lastName: "Ahmed",
+ language: "EN",
+ get langGet(){
+ set langSet(value) {
+ this.language = value; }
 };
-document.getElementById("demo").innerHTML=person.statGet;
+// Set a property using setter
+person. langSet = "AR";
+// Display data from the object using getter
+document.getElementById("demo").innerHTML = person. langGet;
