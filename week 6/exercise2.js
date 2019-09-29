@@ -1,3 +1,5 @@
+// This is the part one of exercise.
+// Crreat an function including the follwing parameters(subject, coordinator, no.hours) and use inheritance to assign values to it. 
 function Teacher(Subject, CoordinatorName, NoofHours){
   this.Subject = Subject;
   this.CoordinatorName = CoordinatorName;
