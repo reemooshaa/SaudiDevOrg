@@ -41,3 +41,4 @@ This challenge made by [Saudi developer initiative](https://twitter.com/saudidev
  - **Day 35**: Using Inheritance in functions to inherit features and properties.
  - **Day 36**: Deleting Properties in the object. 
  - **Day 37**: using (hasOwnProperty) function to clarify the avilability of the property in an object.
+ - **Day 38**: Using getter and sitter. 
