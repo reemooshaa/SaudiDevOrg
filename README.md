@@ -42,4 +42,4 @@ This challenge made by [Saudi developer initiative](https://twitter.com/saudidev
  - **Day 36**: Deleting Properties in the object. 
  - **Day 37**: using (hasOwnProperty) function to clarify the avilability of the property in an object.
  - **Day 38**: Using getter and sitter. 
- -**Day 39, 40**: Write two programs, one with getter and setter and the other using the inheritance, and compate between them. 
+ - **Day 39, 40**: Write two programs, one with getter and setter and the other using the inheritance, and compate between them. 
