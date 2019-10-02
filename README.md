@@ -48,3 +48,4 @@ This challenge made by [Saudi developer initiative](https://twitter.com/saudidev
  - **Day 42**: Add properties to a property by using (Object.Prototype.property).
  - **Day 43**: Creating arrays. 
  - **Day 44**: Creating the Arrays by using new keyword.
+ - **Day 45**: Accessing and reading the array elements through its index. 
