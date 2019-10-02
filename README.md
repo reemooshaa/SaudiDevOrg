@@ -46,3 +46,4 @@ This challenge made by [Saudi developer initiative](https://twitter.com/saudidev
  ### Week 7
  - **Day 41**: Learning about prototype attribute.
  - **Day 42**: Add properties to a property by using (Object.Prototype.property).
+ - **Day 43**: Creating arrays. 
