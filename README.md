@@ -54,3 +54,4 @@ This challenge made by [Saudi developer initiative](https://twitter.com/saudidev
  - **Day 48**: Working with array size. 
  - **Day 49**: Using different ways to add elements to array. 
  - **Day 50**: Deleting array elements. 
+ - **Day 51**: Iterating arrays by using for loop and foreach.
