@@ -50,3 +50,5 @@ This challenge made by [Saudi developer initiative](https://twitter.com/saudidev
  - **Day 44**: Creating the Arrays by using new keyword.
  - **Day 45**: Accessing and reading the array elements through its index. 
  - **Day 46, 47**: Practice in creating and accessing arrays.
+ ### Week 8
+ - **Day 48**: Working with array size. 
