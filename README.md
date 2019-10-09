@@ -53,3 +53,4 @@ This challenge made by [Saudi developer initiative](https://twitter.com/saudidev
  ### Week 8
  - **Day 48**: Working with array size. 
  - **Day 49**: Using different ways to add elements to array. 
+ - **Day 50**: Deleting array elements. 
