@@ -56,4 +56,6 @@ This challenge made by [Saudi developer initiative](https://twitter.com/saudidev
  - **Day 50**: Deleting array elements. 
  - **Day 51**: Iterating arrays by using for loop and foreach.
  - **Day 52**: Create a mutlidimintional array. 
- - **Day 53**: building a program to input employees information 
+ - **Day 53, 54**: building a program to input employees information 
+ ### Week 9
+ - **Day 55**: Using array's methods(jpin, revers, sort, slice, concat)
