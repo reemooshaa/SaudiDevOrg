@@ -59,3 +59,4 @@ This challenge made by [Saudi developer initiative](https://twitter.com/saudidev
  - **Day 53, 54**: building a program to input employees information 
  ### Week 9
  - **Day 55**: Using array's methods(jpin, revers, sort, slice, concat)
+ - **Day 56**: Using array's methods(splice, push, pop, shift, unshift)
