@@ -63,3 +63,5 @@ This challenge made by [Saudi developer initiative](https://twitter.com/saudidev
  - **Day 57**: Using array's methods5(toString, forEach)
  - **Day 58**: Using array's methods(map, filter, every&some, reduce & reduceRight, indexOf & lastIndexOf)
 - **Day 59**: using strings as an array. 
+- **Day 60, 61**: given two arrays, finde wehre and what the different exists. 
+
