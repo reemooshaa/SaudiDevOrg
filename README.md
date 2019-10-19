@@ -60,3 +60,4 @@ This challenge made by [Saudi developer initiative](https://twitter.com/saudidev
  ### Week 9
  - **Day 55**: Using array's methods(jpin, revers, sort, slice, concat)
  - **Day 56**: Using array's methods(splice, push, pop, shift, unshift)
+ - **Day 57**: Using array's methods(toString, forEach)
