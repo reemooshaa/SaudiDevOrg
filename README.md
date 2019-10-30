@@ -67,4 +67,5 @@ This challenge made by [Saudi developer initiative](https://twitter.com/saudidev
 ### Week 10
 - **Day 62**: creating functions with and without return values. 
 - **Day 63**: calling the function with in different ways. 
+- **Day 64**: call the function as an object with parameter and arguments. 
 
