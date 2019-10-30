@@ -64,4 +64,6 @@ This challenge made by [Saudi developer initiative](https://twitter.com/saudidev
  - **Day 58**: Using array's methods(map, filter, every&some, reduce & reduceRight, indexOf & lastIndexOf)
 - **Day 59**: using strings as an array. 
 - **Day 60, 61**: given two arrays, finde wehre and what the different exists. 
+### Week 10
+- **Day 62**: creating functions with and without return values. 
 
