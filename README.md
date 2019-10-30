@@ -69,4 +69,4 @@ This challenge made by [Saudi developer initiative](https://twitter.com/saudidev
 - **Day 63**: calling the function with in different ways. 
 - **Day 64**: call the function as an object with parameter and arguments. 
 - **Day 65**: using applay to call. 
-
+- **Day 66**: Learning about global and local variables. 
