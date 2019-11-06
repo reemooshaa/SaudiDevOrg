@@ -73,3 +73,4 @@ This challenge made by [Saudi developer initiative](https://twitter.com/saudidev
 - **Day 67, 68**: Applying memorize() function. 
 ### Week 11
 - **Day 69**: using onload to load content to html page. 
+- **Day 70**: using script file within and extended from html file. 
