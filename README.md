@@ -77,3 +77,4 @@ This challenge made by [Saudi developer initiative](https://twitter.com/saudidev
 - **Day 71**: using setinterval and clearinterval. 
 - **Day 72**: Opening and closing windows.
 - **Day 73**: Using the dialog box to take input from the user and also use it with onerror for error handling. 
+- **Day 74, 75**: create buttons asks the user to open a page whether he chooses to open it in a new tab or on a new window. 
