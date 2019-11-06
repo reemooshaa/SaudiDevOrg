@@ -71,3 +71,5 @@ This challenge made by [Saudi developer initiative](https://twitter.com/saudidev
 - **Day 65**: using applay to call. 
 - **Day 66**: Learning about global and local variables. 
 - **Day 67, 68**: Applying memorize() function. 
+### Week 11
+- **Day 69**: using onload to load content to html page. 
