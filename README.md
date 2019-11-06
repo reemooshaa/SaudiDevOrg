@@ -75,3 +75,4 @@ This challenge made by [Saudi developer initiative](https://twitter.com/saudidev
 - **Day 69**: using onload to load content to html page. 
 - **Day 70**: using script file within and extended from html file. 
 - **Day 71**: using setinterval and clearinterval. 
+- **Day 72**: Opening and closing windows.
